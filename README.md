@@ -43,7 +43,7 @@ I love building things that work, solving real problems, and constantly pushing 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**EasyCall**](https://github.com/kiru0real/EasyCall) | 1-on-1 video calls in the browser | WebRTC, PeerJS, JavaScript, CSS |
-| [**WebWorks**](https://github.com/kiru0real/WebWorks) | 3 websites for portfolio | HTML, CSS, JavaScript, Yandex Maps API, localStorage |
+| [**WebWorks**](https://github.com/kiru0real/WebWorks) | 4 websites for portfolio | HTML, CSS, JavaScript, Yandex Maps API, localStorage |
 | *Soon...* | More backend-focused projects | Python, Docker, PostgreSQL |
 
 > *Stay tuned — I'm building my backend portfolio!*
