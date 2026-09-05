@@ -82,6 +82,7 @@ Frontend (HTML/CSS/JS) → Backend (Python) → DevOps (Docker/Linux/AWS)
 ## 🏆 Things I'm Proud Of
 
 - 🎯 **EasyCall** — my first WebRTC project with real-time video & screen sharing
+- 🧮 **LiquidCalculator** — a polished desktop calculator built from scratch with Rust, egui and a custom Liquid Glass UI
 - 🌍 **Multilingual support** — built custom i18n system from scratch
 - 🧩 **Clean code** — I write readable, maintainable code with comments
 - 🔥 **Problem solver** — fixed tricky bugs like screen-share desync
