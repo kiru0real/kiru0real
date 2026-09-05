@@ -44,6 +44,7 @@ I love building things that work, solving real problems, and constantly pushing 
 |---------|-------------|-------|
 | [**EasyCall**](https://github.com/kiru0real/EasyCall) | 1-on-1 video calls in the browser | WebRTC, PeerJS, JavaScript, CSS |
 | [**WebWorks**](https://github.com/kiru0real/WebWorks) | 4 websites for portfolio | HTML, CSS, JavaScript, Yandex Maps API, localStorage |
+| [**LiquidCalculator**](https://github.com/kiru0real/LiquidCalculator) | Minimalist desktop calculator with Liquid Glass UI | Rust, egui, eframe |
 | *Soon...* | More backend-focused projects | Python, Docker, PostgreSQL |
 
 > *Stay tuned — I'm building my backend portfolio!*
